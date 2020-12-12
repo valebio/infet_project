@@ -4,7 +4,6 @@ The two tables available in this repository represent a working document to help
 
 The connections do not necessarily entail a strict correspondence or equality in the definitions. They hint at similarities which also emphasize differences useful to stimulate deepening the knowledge.
 
-
 These tables are open to contributions by different categories of stakeholders; sort of an intersectorial Wikipedia. 
 
 It is a starting point, as it is by no means complete, and aims to stimulate other researchers and scholars in the field and get their contribution enriching it. 
